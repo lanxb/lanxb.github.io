@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://kensence.github.io/app/S-MixControl.ipa</string>
+					<string>https://lanxb.github.io/app/S-MixControl.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>www.Kensence.comS-MixcontrolProRe</string>
+				<string>www.lanxb.comS-MixcontrolProRe</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
